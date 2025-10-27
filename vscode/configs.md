@@ -1,0 +1,1 @@
+#Configuracoes para vscode
